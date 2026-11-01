@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "136981662795",
+    "project_id": "bmi-calculato",
+    "storage_bucket": "bmi-calculato.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136981662795:android:fb5566423fd0bb10ee51ce",
+        "android_client_info": {
+          "package_name": "com.gogart.bmicalculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyJI85RXcVnXnbVhtC-N3YX_zqUlltQr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
